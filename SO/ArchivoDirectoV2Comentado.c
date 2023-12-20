@@ -1,5 +1,5 @@
-// iTz_DiLAN
-
+// Autores: Jeison Salas, David Moya, Roberto Barros.
+// Sistemas Operativos - Felipe Tirado
 # include <stdio.h>
 # include <stdlib.h>
 # include <string.h>
