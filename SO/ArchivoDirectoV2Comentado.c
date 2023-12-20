@@ -274,7 +274,6 @@ void buscarRegistroPersona(FILE *archivo, FILE *indice) {
 }
 
 // Función para modificar un registro de persona por email y campo específico
-// CONTINUAR COMENTANDO DESDE AQUI.
 // Funcion encargada de modificar la informacion especifica por el usuario, hace uso del puntero al archivo principal y del puntero al
 // archivo (indice).
 void modificarRegistroPersona(FILE *archivo, FILE *indice) {
@@ -530,8 +529,7 @@ void mostrarMenu() {
 }
 
 // Funcion: main
-// Parametros: ninguno.
-// Descripcion: encargada de ejecutar el programa, aqui se abren y crean los dos archivos a utilizar,
+// Se encargada de ejecutar el programa, aqui se abren y crean los dos archivos a utilizar,
 // mostrara el menu y se utilizaran las funciones declaradas anteriormente mediante una estructura
 // repetitiva while haciendo uso de una estructura de control switch.
 int main() {
